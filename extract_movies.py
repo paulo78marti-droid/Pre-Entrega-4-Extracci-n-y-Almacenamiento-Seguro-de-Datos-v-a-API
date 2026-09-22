@@ -62,38 +62,11 @@ def main():
         except Exception as error:
             print(f"❌ Error inesperado durante la extracción: {error}")
 
-    # Fallback con datos demostrativos estructurados si no hay API Key o falla la red
+    # Si no se obtuvieron datos de la API, interrumpir la ejecución sin guardar archivos defectuosos
     if not datos_json:
-        print("ℹ️ Procesando con dataset estructurado demostrativo...")
-        datos_json = [
-            {
-                "rank": 1,
-                "title": "The Shawshank Redemption",
-                "rating": "9.3",
-                "year": 1994,
-                "genre": ["Drama"],
-                "description": "Two imprisoned men bond over a number of years...",
-                "id": "top1"
-            },
-            {
-                "rank": 2,
-                "title": "The Godfather",
-                "rating": "9.2",
-                "year": 1972,
-                "genre": ["Crime", "Drama"],
-                "description": "The aging patriarch of an organized crime dynasty...",
-                "id": "top2"
-            },
-            {
-                "rank": 3,
-                "title": "The Dark Knight",
-                "rating": "9.0",
-                "year": 2008,
-                "genre": ["Action", "Crime", "Drama"],
-                "description": "When the menace known as the Joker wreaks havoc...",
-                "id": "top3"
-            }
-        ]
+        print("❌ Error: No se pudieron obtener datos de la API. El proceso ha finalizado.")
+        sys.exit(1)
+
 
     # 3. Transformación y Limpieza de Datos con Pandas
     df = pd.DataFrame(datos_json)

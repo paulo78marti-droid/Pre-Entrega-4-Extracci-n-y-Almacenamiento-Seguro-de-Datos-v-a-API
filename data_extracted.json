@@ -5,7 +5,7 @@
         "rating": "9.3",
         "year": 1994,
         "genre": "Drama",
-        "description": "Two imprisoned men bond over a number of years...",
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
         "id": "top1"
     },
     {
@@ -14,7 +14,7 @@
         "rating": "9.2",
         "year": 1972,
         "genre": "Crime, Drama",
-        "description": "The aging patriarch of an organized crime dynasty...",
+        "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
         "id": "top2"
     },
     {
@@ -23,7 +23,880 @@
         "rating": "9.0",
         "year": 2008,
         "genre": "Action, Crime, Drama",
-        "description": "When the menace known as the Joker wreaks havoc...",
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
         "id": "top3"
+    },
+    {
+        "rank": 4,
+        "title": "The Godfather Part II",
+        "rating": "9.0",
+        "year": 1974,
+        "genre": "Crime, Drama",
+        "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "id": "top4"
+    },
+    {
+        "rank": 5,
+        "title": "12 Angry Men",
+        "rating": "9.0",
+        "year": 1957,
+        "genre": "Crime, Drama",
+        "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+        "id": "top5"
+    },
+    {
+        "rank": 6,
+        "title": "Schindler's List",
+        "rating": "9.0",
+        "year": 1993,
+        "genre": "Biography, Drama, History",
+        "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "id": "top6"
+    },
+    {
+        "rank": 7,
+        "title": "The Lord of the Rings: The Return of the King",
+        "rating": "9.0",
+        "year": 2003,
+        "genre": "Action, Adventure, Drama",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "id": "top7"
+    },
+    {
+        "rank": 8,
+        "title": "Pulp Fiction",
+        "rating": "8.9",
+        "year": 1994,
+        "genre": "Crime, Drama",
+        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "id": "top8"
+    },
+    {
+        "rank": 9,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": "8.8",
+        "year": 2001,
+        "genre": "Action, Adventure, Drama",
+        "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "id": "top9"
+    },
+    {
+        "rank": 10,
+        "title": "The Good, the Bad and the Ugly",
+        "rating": "8.8",
+        "year": 1966,
+        "genre": "Adventure, Western",
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "id": "top10"
+    },
+    {
+        "rank": 11,
+        "title": "Forrest Gump",
+        "rating": "8.8",
+        "year": 1994,
+        "genre": "Drama, Romance",
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "id": "top11"
+    },
+    {
+        "rank": 12,
+        "title": "Fight Club",
+        "rating": "8.8",
+        "year": 1999,
+        "genre": "Drama",
+        "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "id": "top12"
+    },
+    {
+        "rank": 13,
+        "title": "The Lord of the Rings: The Two Towers",
+        "rating": "8.8",
+        "year": 2002,
+        "genre": "Action, Adventure, Drama",
+        "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "id": "top13"
+    },
+    {
+        "rank": 14,
+        "title": "Inception",
+        "rating": "8.7",
+        "year": 2010,
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "id": "top14"
+    },
+    {
+        "rank": 15,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "rating": "8.7",
+        "year": 1980,
+        "genre": "Action, Adventure, Fantasy",
+        "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+        "id": "top15"
+    },
+    {
+        "rank": 16,
+        "title": "The Matrix",
+        "rating": "8.7",
+        "year": 1999,
+        "genre": "Action, Sci-Fi",
+        "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "id": "top16"
+    },
+    {
+        "rank": 17,
+        "title": "Goodfellas",
+        "rating": "8.7",
+        "year": 1990,
+        "genre": "Biography, Crime, Drama",
+        "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "id": "top17"
+    },
+    {
+        "rank": 18,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "rating": "8.7",
+        "year": 2023,
+        "genre": "Animation, Action, Adventure",
+        "description": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+        "id": "top18"
+    },
+    {
+        "rank": 19,
+        "title": "Interstellar",
+        "rating": "8.7",
+        "year": 2014,
+        "genre": "Adventure, Drama, Sci-Fi",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "id": "top19"
+    },
+    {
+        "rank": 20,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "rating": "8.6",
+        "year": 1975,
+        "genre": "Drama",
+        "description": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.",
+        "id": "top20"
+    },
+    {
+        "rank": 21,
+        "title": "Se7en",
+        "rating": "8.6",
+        "year": 1995,
+        "genre": "Crime, Drama, Mystery",
+        "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "id": "top21"
+    },
+    {
+        "rank": 22,
+        "title": "It's a Wonderful Life",
+        "rating": "8.6",
+        "year": 1946,
+        "genre": "Drama, Family, Fantasy",
+        "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+        "id": "top22"
+    },
+    {
+        "rank": 23,
+        "title": "Seven Samurai",
+        "rating": "8.6",
+        "year": 1954,
+        "genre": "Action, Drama",
+        "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him. As the samurai teach the peasants how to defend themselves, the village is attacked by an army of bandits.",
+        "id": "top23"
+    },
+    {
+        "rank": 24,
+        "title": "The Silence of the Lambs",
+        "rating": "8.6",
+        "year": 1991,
+        "genre": "Crime, Drama, Thriller",
+        "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "id": "top24"
+    },
+    {
+        "rank": 25,
+        "title": "Saving Private Ryan",
+        "rating": "8.6",
+        "year": 1998,
+        "genre": "Drama, War",
+        "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "id": "top25"
+    },
+    {
+        "rank": 26,
+        "title": "City of God",
+        "rating": "8.6",
+        "year": 2002,
+        "genre": "Crime, Drama",
+        "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "id": "top26"
+    },
+    {
+        "rank": 27,
+        "title": "Life Is Beautiful",
+        "rating": "8.6",
+        "year": 1997,
+        "genre": "Comedy, Drama, Romance",
+        "description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+        "id": "top27"
+    },
+    {
+        "rank": 28,
+        "title": "The Green Mile",
+        "rating": "8.6",
+        "year": 1999,
+        "genre": "Crime, Drama, Fantasy",
+        "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "id": "top28"
+    },
+    {
+        "rank": 29,
+        "title": "Star Wars: Episode IV - A New Hope",
+        "rating": "8.6",
+        "year": 1977,
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "id": "top29"
+    },
+    {
+        "rank": 30,
+        "title": "Terminator 2: Judgment Day",
+        "rating": "8.6",
+        "year": 1991,
+        "genre": "Action, Sci-Fi",
+        "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg.",
+        "id": "top30"
+    },
+    {
+        "rank": 31,
+        "title": "Spirited Away",
+        "rating": "8.6",
+        "year": 2001,
+        "genre": "Animation, Adventure, Family",
+        "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+        "id": "top31"
+    },
+    {
+        "rank": 32,
+        "title": "Oppenheimer",
+        "rating": "8.6",
+        "year": 2023,
+        "genre": "Biography, Drama, History",
+        "description": "The story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
+        "id": "top32"
+    },
+    {
+        "rank": 33,
+        "title": "Harakiri",
+        "rating": "8.6",
+        "year": 1962,
+        "genre": "Action, Drama, Mystery",
+        "description": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+        "id": "top33"
+    },
+    {
+        "rank": 34,
+        "title": "Back to the Future",
+        "rating": "8.5",
+        "year": 1985,
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "description": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+        "id": "top34"
+    },
+    {
+        "rank": 35,
+        "title": "The Pianist",
+        "rating": "8.5",
+        "year": 2002,
+        "genre": "Biography, Drama, Music",
+        "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "id": "top35"
+    },
+    {
+        "rank": 36,
+        "title": "Psycho",
+        "rating": "8.5",
+        "year": 1960,
+        "genre": "Horror, Mystery, Thriller",
+        "description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+        "id": "top36"
+    },
+    {
+        "rank": 37,
+        "title": "Parasite",
+        "rating": "8.5",
+        "year": 2019,
+        "genre": "Drama, Thriller",
+        "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "id": "top37"
+    },
+    {
+        "rank": 38,
+        "title": "Gladiator",
+        "rating": "8.5",
+        "year": 1994,
+        "genre": "Action, Adventure, Drama",
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "id": "top38"
+    },
+    {
+        "rank": 39,
+        "title": "The Lion King",
+        "rating": "8.5",
+        "year": 1994,
+        "genre": "Animation, Adventure, Drama",
+        "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "id": "top39"
+    },
+    {
+        "rank": 40,
+        "title": "Léon: The Professional",
+        "rating": "8.5",
+        "year": 1994,
+        "genre": "Action, Crime, Drama",
+        "description": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+        "id": "top40"
+    },
+    {
+        "rank": 41,
+        "title": "American History X",
+        "rating": "8.5",
+        "year": 2000,
+        "genre": "Crime, Drama",
+        "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+        "id": "top41"
+    },
+    {
+        "rank": 42,
+        "title": "The Departed",
+        "rating": "8.5",
+        "year": 1998,
+        "genre": "Crime, Drama, Thriller",
+        "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "id": "top42"
+    },
+    {
+        "rank": 43,
+        "title": "Whiplash",
+        "rating": "8.5",
+        "year": 2014,
+        "genre": "Drama, Music",
+        "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+        "id": "top43"
+    },
+    {
+        "rank": 44,
+        "title": "The Prestige",
+        "rating": "8.5",
+        "year": 2006,
+        "genre": "Drama, Mystery, Sci-Fi",
+        "description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+        "id": "top44"
+    },
+    {
+        "rank": 45,
+        "title": "The Usual Suspects",
+        "rating": "8.5",
+        "year": 1995,
+        "genre": "Crime, Drama, Mystery",
+        "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+        "id": "top45"
+    },
+    {
+        "rank": 46,
+        "title": "Grave of the Fireflies",
+        "rating": "8.5",
+        "year": 1988,
+        "genre": "Animation",
+        "description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+        "id": "top46"
+    },
+    {
+        "rank": 47,
+        "title": "Casablanca",
+        "rating": "8.5",
+        "year": 1942,
+        "genre": "Drama, Romance, War",
+        "description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+        "id": "top47"
+    },
+    {
+        "rank": 48,
+        "title": "The Intouchables",
+        "rating": "8.5",
+        "year": 2011,
+        "genre": "Biography, Comedy, Drama",
+        "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+        "id": "top48"
+    },
+    {
+        "rank": 49,
+        "title": "Modern Times",
+        "rating": "8.5",
+        "year": 1936,
+        "genre": "Comedy, Drama, Romance",
+        "description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "id": "top49"
+    },
+    {
+        "rank": 50,
+        "title": "Cinema Paradiso",
+        "rating": "8.5",
+        "year": 1988,
+        "genre": "Drama, Romance",
+        "description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+        "id": "top50"
+    },
+    {
+        "rank": 51,
+        "title": "Once Upon a Time in the West",
+        "rating": "8.5",
+        "year": 1968,
+        "genre": "Western",
+        "description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+        "id": "top51"
+    },
+    {
+        "rank": 52,
+        "title": "Rear Window",
+        "rating": "8.5",
+        "year": 1954,
+        "genre": "Mystery, Thriller",
+        "description": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+        "id": "top52"
+    },
+    {
+        "rank": 53,
+        "title": "Alien",
+        "rating": "8.5",
+        "year": 1979,
+        "genre": "Horror, Sci-Fi",
+        "description": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+        "id": "top53"
+    },
+    {
+        "rank": 54,
+        "title": "City Lights",
+        "rating": "8.5",
+        "year": 1931,
+        "genre": "Comedy, Drama, Romance",
+        "description": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+        "id": "top54"
+    },
+    {
+        "rank": 55,
+        "title": "Django Unchained",
+        "rating": "8.5",
+        "year": 2012,
+        "genre": "Drama, Western",
+        "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+        "id": "top55"
+    },
+    {
+        "rank": 56,
+        "title": "Apocalypse Now",
+        "rating": "8.4",
+        "year": 1979,
+        "genre": "Drama, Mystery, War",
+        "description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+        "id": "top56"
+    },
+    {
+        "rank": 57,
+        "title": "Memento",
+        "rating": "8.4",
+        "year": 2000,
+        "genre": "Mystery, Thriller",
+        "description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "id": "top57"
+    },
+    {
+        "rank": 58,
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "rating": "8.4",
+        "year": 1981,
+        "genre": "Action, Adventure",
+        "description": "Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.",
+        "id": "top58"
+    },
+    {
+        "rank": 59,
+        "title": "WALL·E",
+        "rating": "8.4",
+        "year": 2008,
+        "genre": "Animation, Adventure, Family",
+        "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+        "id": "top59"
+    },
+    {
+        "rank": 60,
+        "title": "The Lives of Others",
+        "rating": "8.4",
+        "year": 2006,
+        "genre": "Drama, Mystery, Thriller",
+        "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+        "id": "top60"
+    },
+    {
+        "rank": 61,
+        "title": "Sunset Blvd.",
+        "rating": "8.4",
+        "year": 1950,
+        "genre": "Drama, Film-Noir",
+        "description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+        "id": "top61"
+    },
+    {
+        "rank": 62,
+        "title": "Paths of Glory",
+        "rating": "8.4",
+        "year": 1957,
+        "genre": "Drama, War",
+        "description": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+        "id": "top62"
+    },
+    {
+        "rank": 63,
+        "title": "Avengers: Infinity War",
+        "rating": "8.4",
+        "year": 2018,
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "id": "top63"
+    },
+    {
+        "rank": 64,
+        "title": "The Shining",
+        "rating": "8.4",
+        "year": 1980,
+        "genre": "Drama, Horror",
+        "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+        "id": "top64"
+    },
+    {
+        "rank": 65,
+        "title": "The Great Dictator",
+        "rating": "8.4",
+        "year": 1940,
+        "genre": "Comedy, Drama, War",
+        "description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "id": "top65"
+    },
+    {
+        "rank": 66,
+        "title": "Witness for the Prosecution",
+        "rating": "8.4",
+        "year": 1957,
+        "genre": "Crime, Drama, Mystery",
+        "description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+        "id": "top66"
+    },
+    {
+        "rank": 67,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "rating": "8.4",
+        "year": 2018,
+        "genre": "Animation, Action, Adventure",
+        "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+        "id": "top67"
+    },
+    {
+        "rank": 68,
+        "title": "Aliens",
+        "rating": "8.4",
+        "year": 1986,
+        "genre": "Action, Adventure, Sci-Fi",
+        "description": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+        "id": "top68"
+    },
+    {
+        "rank": 69,
+        "title": "Inglourious Basterds",
+        "rating": "8.4",
+        "year": 2009,
+        "genre": "Adventure, Drama, War",
+        "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+        "id": "top69"
+    },
+    {
+        "rank": 70,
+        "title": "The Dark Knight Rises",
+        "rating": "8.4",
+        "year": 2012,
+        "genre": "Action, Drama",
+        "description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Selina Kyle, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+        "id": "top70"
+    },
+    {
+        "rank": 71,
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "rating": "8.4",
+        "year": 1964,
+        "genre": "Comedy, War",
+        "description": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+        "id": "top71"
+    },
+    {
+        "rank": 72,
+        "title": "Oldboy",
+        "rating": "8.4",
+        "year": 2003,
+        "genre": "Action, Drama, Mystery",
+        "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+        "id": "top72"
+    },
+    {
+        "rank": 73,
+        "title": "Coco",
+        "rating": "8.4",
+        "year": 2017,
+        "genre": "Animation, Adventure, Comedy",
+        "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+        "id": "top73"
+    },
+    {
+        "rank": 74,
+        "title": "Amadeus",
+        "rating": "8.4",
+        "year": 1984,
+        "genre": "Biography, Drama, Music",
+        "description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+        "id": "top74"
+    },
+    {
+        "rank": 75,
+        "title": "The Boat",
+        "rating": "8.4",
+        "year": 1981,
+        "genre": "Drama, War",
+        "description": "A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic world of a submariner in World War II.",
+        "id": "top75"
+    },
+    {
+        "rank": 76,
+        "title": "Avengers: Endgame",
+        "rating": "8.4",
+        "year": 2019,
+        "genre": "Action, Adventure, Drama",
+        "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "id": "top76"
+    },
+    {
+        "rank": 77,
+        "title": "Joker",
+        "rating": "8.4",
+        "year": 2019,
+        "genre": "Crime, Drama, Thriller",
+        "description": "A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
+        "id": "top77"
+    },
+    {
+        "rank": 78,
+        "title": "Your Name.",
+        "rating": "8.4",
+        "year": 2016,
+        "genre": "Animation, Drama, Fantasy",
+        "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+        "id": "top78"
+    },
+    {
+        "rank": 79,
+        "title": "3 Idiots",
+        "rating": "8.4",
+        "year": 2009,
+        "genre": "Comedy, Drama",
+        "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+        "id": "top79"
+    },
+    {
+        "rank": 80,
+        "title": "High and Low",
+        "rating": "8.4",
+        "year": 1963,
+        "genre": "Crime, Drama, Mystery",
+        "description": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+        "id": "top80"
+    },
+    {
+        "rank": 81,
+        "title": "Capernaum",
+        "rating": "8.4",
+        "year": 2018,
+        "genre": "Drama",
+        "description": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+        "id": "top81"
+    },
+    {
+        "rank": 82,
+        "title": "Come and See",
+        "rating": "8.4",
+        "year": 1985,
+        "genre": "Drama, Thriller, War",
+        "description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+        "id": "top82"
+    },
+    {
+        "rank": 83,
+        "title": "Toy Story",
+        "rating": "8.3",
+        "year": 1995,
+        "genre": "Animation, Adventure, Comedy",
+        "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+        "id": "top83"
+    },
+    {
+        "rank": 84,
+        "title": "American Beauty",
+        "rating": "8.3",
+        "year": 1999,
+        "genre": "Drama",
+        "description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+        "id": "top84"
+    },
+    {
+        "rank": 85,
+        "title": "Braveheart",
+        "rating": "8.3",
+        "year": 1995,
+        "genre": "Biography, Drama, History",
+        "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+        "id": "top85"
+    },
+    {
+        "rank": 86,
+        "title": "Princess Mononoke",
+        "rating": "8.3",
+        "year": 1997,
+        "genre": "Animation, Action, Adventure",
+        "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+        "id": "top86"
+    },
+    {
+        "rank": 87,
+        "title": "Good Will Hunting",
+        "rating": "8.3",
+        "year": 1997,
+        "genre": "Drama, Romance",
+        "description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+        "id": "top87"
+    },
+    {
+        "rank": 88,
+        "title": "Once Upon a Time in America",
+        "rating": "8.3",
+        "year": 1984,
+        "genre": "Crime, Drama",
+        "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+        "id": "top88"
+    },
+    {
+        "rank": 89,
+        "title": "Singin' in the Rain",
+        "rating": "8.3",
+        "year": 1952,
+        "genre": "Comedy, Musical, Romance",
+        "description": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+        "id": "top89"
+    },
+    {
+        "rank": 90,
+        "title": "Requiem for a Dream",
+        "rating": "8.3",
+        "year": 2000,
+        "genre": "Drama",
+        "description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+        "id": "top90"
+    },
+    {
+        "rank": 91,
+        "title": "Toy Story 3",
+        "rating": "8.3",
+        "year": 2010,
+        "genre": "Animation, Adventure, Comedy",
+        "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+        "id": "top91"
+    },
+    {
+        "rank": 92,
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "rating": "8.3",
+        "year": 1983,
+        "genre": "Action, Adventure, Fantasy",
+        "description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+        "id": "top92"
+    },
+    {
+        "rank": 93,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "rating": "8.3",
+        "year": 2004,
+        "genre": "Drama, Romance, Sci-Fi",
+        "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+        "id": "top93"
+    },
+    {
+        "rank": 94,
+        "title": "2001: A Space Odyssey",
+        "rating": "8.3",
+        "year": 1968,
+        "genre": "Adventure, Sci-Fi",
+        "description": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.",
+        "id": "top94"
+    },
+    {
+        "rank": 95,
+        "title": "The Hunt",
+        "rating": "8.3",
+        "year": 2012,
+        "genre": "Drama",
+        "description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+        "id": "top95"
+    },
+    {
+        "rank": 96,
+        "title": "Reservoir Dogs",
+        "rating": "8.3",
+        "year": 1992,
+        "genre": "Crime, Thriller",
+        "description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+        "id": "top96"
+    },
+    {
+        "rank": 97,
+        "title": "Ikiru",
+        "rating": "8.3",
+        "year": 1952,
+        "genre": "Drama",
+        "description": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+        "id": "top97"
+    },
+    {
+        "rank": 98,
+        "title": "Lawrence of Arabia",
+        "rating": "8.3",
+        "year": 1962,
+        "genre": "Adventure, Biography, Drama",
+        "description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+        "id": "top98"
+    },
+    {
+        "rank": 99,
+        "title": "Citizen Kane",
+        "rating": "8.3",
+        "year": 1941,
+        "genre": "Drama, Mystery",
+        "description": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+        "id": "top99"
+    },
+    {
+        "rank": 100,
+        "title": "M",
+        "rating": "8.3",
+        "year": 1931,
+        "genre": "Crime, Mystery, Thriller",
+        "description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+        "id": "top100"
     }
 ]
