@@ -1,0 +1,23 @@
+# Archivo de variables de entorno con credenciales sensibles (¡NUNCA SUBIR A GITHUB!)
+.env
+.env.local
+.env.production
+!.env.example
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
